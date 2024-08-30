@@ -29,6 +29,11 @@ This is a simple Qt-based unit converter application written in C++. The applica
     - Click the `Build` button to compile the project.
     - Click the `Run` button to start the application.
 
+
+## Download application 
+1. Download this ![7zip](https://github.com/Junsious/unit-convertor/blob/main/realese/%20release.7z)
+2. Run the exe from this archive, unpacking it to the desired location
+
 ## Usage
 
 1. **Select Unit Type**: Choose the type of unit you want to convert (Length, Mass, Temperature, Volume, Area, Speed).
@@ -78,7 +83,6 @@ If you have any questions or suggestions, feel free to contact me via GitHub: [J
     git clone https://github.com/Junsious/unit-converter.git
     cd unit-converter
     ```
-
 2. **Откройте проект в Qt Creator**:
     - Откройте Qt Creator и выберите `Открыть проект`.
     - Перейдите в каталог `unit-converter` и откройте файл `.pro`.
@@ -86,6 +90,10 @@ If you have any questions or suggestions, feel free to contact me via GitHub: [J
 3. **Соберите и запустите**:
     - Нажмите кнопку `Сборка`, чтобы скомпилировать проект.
     - Нажмите кнопку `Запуск`, чтобы запустить приложение.
+## Скачивание приложения
+
+1. Скачайие этот ![7zip](https://github.com/Junsious/unit-convertor/blob/main/realese/%20release.7z)
+2. Запустите exe из этого архива, распоковав его в нужное место
 
 ## Использование
 
