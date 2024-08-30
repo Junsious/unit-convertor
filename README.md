@@ -8,10 +8,6 @@ This is a simple Qt-based unit converter application written in C++. The applica
 - **Unit Conversion**: Converts between units within the selected unit type.
 - **User Interface**: Simple and intuitive GUI with adjustable font size for better readability.
 
-## Screenshots
-
-![Unit Converter Screenshot](path/to/screenshot.png)
-
 ## Prerequisites
 
 - **Qt 5.15 or later**: Ensure you have Qt installed to build and run this application.
