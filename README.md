@@ -48,14 +48,6 @@ This is a simple Qt-based unit converter application written in C++. The applica
 - **updateUnits()**: Updates available units in the dropdown menus based on the selected unit type.
 - **convert()**: Performs the conversion based on user input and selected units.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- **Qt Framework**: Provides the GUI toolkit for this application.
-- **C++ Language**: Used for implementing the core logic of the application.
 
 ## Contact
 
@@ -109,14 +101,7 @@ If you have any questions or suggestions, feel free to contact me via GitHub: [J
 - **updateUnits()**: Обновляет доступные единицы в выпадающих меню в зависимости от выбранного типа единиц.
 - **convert()**: Выполняет конвертацию на основе введенных данных и выбранных единиц.
 
-## Лицензия
 
-Этот проект лицензирован под MIT License. См. файл [LICENSE](LICENSE) для получения подробной информации.
-
-## Благодарности
-
-- **Qt Framework**: Обеспечивает графический интерфейс для этого приложения.
-- **C++ Language**: Использован для реализации основной логики приложения.
 
 ## Контакт
 
